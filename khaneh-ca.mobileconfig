@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>PayloadCertificateFileName</key><string>khaneh-ca.cer</string>
+      <key>PayloadContent</key><data>MIICKTCCAc6gAwIBAgIUBYnoGQw8o+almrC2l5OMHzYSKm4wCgYIKoZIzj0EAwIwLDEZMBcGA1UEAwwQS2hhbmVoIEZhbWlseSBDQTEPMA0GA1UECgwGS2hhbmVoMB4XDTI2MTAyNjEyNTcyMVoXDTM2MTAyMzEyNTcyMVowLDEZMBcGA1UEAwwQS2hhbmVoIEZhbWlseSBDQTEPMA0GA1UECgwGS2hhbmVoMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1JUVP6XmBeEOAHkOpsUqzTzhQkvK2FSghdXfJC0ZRAWcZ0AIhrZGrrXPmqMy+VZ7234sNNiZgUgNvMwRVMuvIaOBzTCByjAdBgNVHQ4EFgQUQXrKPg8CUf73DpTUJn6dELOdc/YwHwYDVR0jBBgwFoAUQXrKPg8CUf73DpTUJn6dELOdc/YwEgYDVR0TAQH/BAgwBgEB/wIBADAOBgNVHQ8BAf8EBAMCAQYwZAYDVR0eAQH/BFowWKAwMAqHCMHJQiT/////MBCCDmtoYW5laC5pbnZhbGlkMBCBDmtoYW5laC5pbnZhbGlkoSQwIocgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwCgYIKoZIzj0EAwIDSQAwRgIhAPBfWbJ44TVzMzdWeG5zawotuoOWzlMVvyEcyAxxQJhjAiEA0qzqmv2Tu5uOEzof3btN24Yiiz6+zbZG6PXyzR01Z+I=</data>
+      <key>PayloadDescription</key><string>Khaneh family server certificate</string>
+      <key>PayloadDisplayName</key><string>Khaneh Family CA</string>
+      <key>PayloadIdentifier</key><string>khaneh.ca.cert</string>
+      <key>PayloadType</key><string>com.apple.security.root</string>
+      <key>PayloadUUID</key><string>1b882e4c-08ca-4b34-93d2-460582c7172f</string>
+      <key>PayloadVersion</key><integer>1</integer>
+    </dict>
+  </array>
+  <key>PayloadDescription</key><string>Only valid for 193.201.66.36</string>
+  <key>PayloadDisplayName</key><string>Khaneh</string>
+  <key>PayloadIdentifier</key><string>khaneh.ca</string>
+  <key>PayloadRemovalDisallowed</key><false/>
+  <key>PayloadType</key><string>Configuration</string>
+  <key>PayloadUUID</key><string>8aecfeb4-03ba-438a-8a2a-f55e844f59d4</string>
+  <key>PayloadVersion</key><integer>1</integer>
+</dict>
+</plist>
